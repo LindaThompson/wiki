@@ -33,7 +33,7 @@ Welcome to Magecheckout Wiki
    :maxdepth: 2
    :caption: Services
 
-   services/index
+   services/*
 
 
 
