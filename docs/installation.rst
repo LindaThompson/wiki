@@ -4,10 +4,11 @@ Installation Guide
 
 
 There are also some requirements to your server where Magento Shop is hosted (all these requirements are common for Magento but still we need to bring them up again):
-	RAM memory over 512 Mbytes
-	Free space on the server not less than the size of the backup
-	Zlib support in PHP. You will need to configure PHP with zlib, but don't worry - most Magento servers have this feature on.
-	Highly recommend you install on staging/test site before installing on your product/live site.
+
+- RAM memory over 512 Mbytes
+- Free space on the server not less than the size of the backup
+- Zlib support in PHP. You will need to configure PHP with zlib, but don't worry - most Magento servers have this feature on.
+- Highly recommend you install on staging/test site before installing on your product/live site.
 
 
 Downloading extensions
@@ -20,7 +21,7 @@ Preparation
 
 - FTP clients (such as Filezilla, WinSCP, cuteFtp) to upload or copy all folders in the zip package to your Magento site root folder.
 - Unzip the extension package.
-*- Disable Compilation: System > Tools > Compilation > Disabled*
+- *Disable Compilation: System > Tools > Compilation > Disabled*
 
 
 Upload the extension:
