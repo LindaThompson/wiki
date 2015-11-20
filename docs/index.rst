@@ -27,6 +27,8 @@ Welcome to Magecheckout Wiki
    abandonment-cart/index
 
 
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Services
@@ -34,9 +36,10 @@ Welcome to Magecheckout Wiki
    services/index
 
 
+
 .. toctree::
    :maxdepth: 2
    :caption: How to
-      
+
    how-to/index
 
