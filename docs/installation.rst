@@ -21,7 +21,7 @@ Preparation
 
 - FTP clients (such as Filezilla, WinSCP, cuteFtp) to upload or copy all folders in the zip package to your Magento site root folder.
 - Unzip the extension package.
-- *Disable Compilation: System > Tools > Compilation > Disabled*
+- Disable Compilation: ``System > Tools > Compilation > Disabled``
 
 
 Upload the extension:
