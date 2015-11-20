@@ -3,7 +3,7 @@ Welcome to Magecheckout Wiki
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :glob:
     :caption: General
 
@@ -33,7 +33,7 @@ Welcome to Magecheckout Wiki
    :maxdepth: 2
    :caption: Services
 
-   services/*
+   services/index
 
 
 
