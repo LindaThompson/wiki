@@ -14,7 +14,7 @@ Welcome to Magecheckout Wiki
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: User Documentation
 
    one-step-checkout/index
@@ -25,6 +25,18 @@ Welcome to Magecheckout Wiki
    display-rules/index
    thank-you-page/index
    abandonment-cart/index
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Services
+
    services/index
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: How to
+      
    how-to/index
 
