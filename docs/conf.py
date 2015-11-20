@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Magecheckout Wiki'
-copyright = u'2016, Magecheckout'
+copyright = u'2016, https://magecheckout.com'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
