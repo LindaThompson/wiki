@@ -8,7 +8,7 @@ Disable Extension
 To completely uninstall any extension, first start from disabling it. 
 *To disable the extension, please follow the next steps*
 
-- Edit ``app/etc/modules/Magecheckout_SecuredCheckout.xml``
+- Edit ``app/etc/modules/Magecheckout_EXTENSION_NAME.xml``
 - Change ``"true"`` to ``"false"``
 - *Clear the cache*
 
@@ -18,7 +18,7 @@ Now you can safely remove the extension files, although it is not necessary.
 
 
 
-Uninstall One Step Checkout completely
+Uninstall an extension completely
 --------------------------------------
 
 *Delete the following files, folders:*
