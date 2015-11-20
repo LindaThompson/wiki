@@ -142,20 +142,20 @@ html_theme = 'default'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = [
-	'_static',
+# html_static_path = [
+	# '_static',
 # 	'_static/custom.css',
 # 	'_static/default.css',
 # 	'_static/app.js'
-]
+# ]
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
-html_extra_path = [
-	'robots.txt',
-	'.htaccess'
-]
+# html_extra_path = [
+	# 'robots.txt',
+	# '.htaccess'
+# ]
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
