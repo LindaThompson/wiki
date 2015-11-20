@@ -9,8 +9,8 @@ To completely uninstall any extension, first start from disabling it.
 *To disable the extension, please follow the next steps*
 
 - Edit ``app/etc/modules/Magecheckout_EXTENSION_NAME.xml``
-- Change ``"true"`` to ``"false"``
-- *Clear the cache*
+- Change ``true`` to ``false``
+- Clear the cache
 
 At this point the extension is completely disabled and is not visible for Magento.
 
