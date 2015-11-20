@@ -39,7 +39,7 @@ Open ``Magecheckout_EXTENSION_NAME.csv`` in French folder and edit them.
 All strings should start and end with double quotes and should be separated with comma (,), not a semicolon or any other sign.
 
 
-	"My Cart","Mon panier"
+		"My Cart","Mon panier"
 
 
 
