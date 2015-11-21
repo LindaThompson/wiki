@@ -15,8 +15,8 @@ Feel fee to `contact us`_ if there is any extensions that is not compatible with
     extensions/index
     *
     
-Ready compatible with
----------------------
+Compability
+------------
 
 *Payment methods*
 	- Paypal
