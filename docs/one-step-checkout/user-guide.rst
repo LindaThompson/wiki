@@ -164,7 +164,7 @@ Allow customers login with 6 popular social networks API: Facebook, Google+, Twi
 
 
 Display Configuration
----------------------
+^^^^^^^^^^^^^^^^^^^^
 
 Discount Code Section
 ```````````````
