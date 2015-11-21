@@ -42,7 +42,7 @@ Billing Address
 Shipping Address
 ^^^^^^^^^^^^^^^^
 .. image:: https://lh3.googleusercontent.com/_KtYCQmFIZOiLNX59Fvqkfw4a1In0VPV7f2-hNYlFoymXQD4SEO5LkAiAc_dONhyKzFi28hLwfbwHAfG1wxVIY2kUxGJC669_MbIYRuF6DVaE-KJdbJQ0yue7fEQAIc3A6Q16aY
-	align: center
+	
 
 When customers change information on Billing address or Shipping address, others step that related to Billing/Shipping address will be updated by ajax automatically.
 
@@ -54,3 +54,71 @@ Payment method
 ^^^^^^^^^^^^^^
 
 .. image:: https://lh6.googleusercontent.com/bQUtkl9YPDHezYaVKhjMpJoTzciThAU_Wm1jsZfQJogsK_taLDRRIUFZjyrOMHBFLujvvTw6tS8DFdc9LyP0ZCNob6gaO9xzGfcK9-xUFXlzICiAHhl09AGW-12cnWxlwHYTSzk
+
+
+Order review
+^^^^^^^^^^^
+
+.. image:: https://lh5.googleusercontent.com/YcDLKBFOIKh5e08a5IIbD0BKgarygpdSxN4JYUlUGHFKwKkjSY6eLIuYW7dOg_dElpwDm-_FuavHV65jIUHqdA5vXseUtG3QSJ76w5Xuw9krkhbBpm8FBXGW2HPqILvtjSuRqvs
+
+
+Coupon
+^^^^^^
+
+.. image:: https://lh3.googleusercontent.com/RF-kvGR87YezekN99AFFc6iBt2SOG-aCT3Qw_Atpfx3LF9VKAbbEF73MPblYDVt_OdHpGnOwuvA08eflfuoPcLAGHii5XSayDlnGc5pPId-Lc8mYagscbYx3J_kap9MTwsYGRdI
+
+
+Order comment ready
+^^^^^^^^^^^^^^^^^^^
+
+.. image:: https://lh6.googleusercontent.com/Pc2__Ax4VQ0ll4ojJnPOkvliIWAE0oDqBzeDMxoDQjGM0YpMWiN5KQqwNj0pXR6eKzX8-uqOvvvTLeL2QbA6bCeY8je7Oc8VIO_WGpFElsTnSoXp2myaE3UYXNdSVxXk6KskRqY
+
+
+Survey
+^^^^^^^^^
+
+.. image:: https://lh4.googleusercontent.com/k_wQXiB1NMxnKC6ITDKQYQ7sArBSv7Fa6J5lANQ_Yzel0KpyIwBbmA19zk4TPOgOZbmeiRRlEeAK0I36mPymzkJDMDNYNDwHLsGcwKbJaa38qSlW_rJQcQ_9Sq71wMH_vrWyogE
+
+
+Delivery time
+^^^^^^^^^^^^^
+
+.. image:: https://lh3.googleusercontent.com/7rKlHLWxWWkwht4rHmBxfk-Eie2mQK_fTj3sGW8SCCeSKduBlV0iF1zUgt8g1nnwSLv7GLgeRSbzTuJKqk_gGTawrOW-QNN6BRWtE0bDm0L6GpzzEsP_mCkobXcPbPFMfzYna0E
+
+
+
+How to configure
+----------------
+
+Go to ``System > Configuration > Magecheckout Extensions > One Step Checkout``
+You will be navigated to the `Secure Checkout Configuration` page where you can set up, configure our module to get it to work as you wish.
+
+.. image:: https://lh3.googleusercontent.com/yzoLsXGTtLS1h2SyJtl7FF6s3Tt2v9HH0XoEJVz91tLz8XM2UzI1HmZw5TCp6gMqqP1liolo-xDmhsbZfyF77EEnJnm7fQTvYyw4RNESvYZdaF7uMrLs6btZxSMBmyuolfrUXKg
+
+
+
+General configuration
+^^^^^^^^^^^^^^^^^^^^^
+
+
+Enable Secure Checkout
+``````````
+Select ``Yes``:  Active Magecheckout `One Step Checkout`_ as default checkout in your store.
+
+
+
+Checkout Title
+You can check heading title in Secured Checkout page
+
+
+
+
+
+
+
+
+
+
+
+
+.. _One Step Checkout: https://magecheckout.com/
