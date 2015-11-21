@@ -3,7 +3,7 @@ Installation Guide
 ====================================
 
 .. note::
-There are also some requirements to your server where Magento Shop is hosted (all these requirements are common for Magento but still we need to bring them up again):
+	There are also some requirements to your server where Magento Shop is hosted (all these requirements are common for Magento but still we need to bring them up again):
 
 - RAM memory over 512 Mbytes
 - Free space on the server not less than the size of the backup
