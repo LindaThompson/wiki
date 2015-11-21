@@ -33,7 +33,7 @@ Clear cache in Magento Admin Go to System/Cache Management. Hit on Flush Magento
 
 
 .. tip:: 404 Access Denied
-	Logout and Login again to avoid Access denied error when you go to this product configuration.
+	Logout and Login again to avoid **Access denied 404 error** when you go to this product configuration.
 
 
 Configuration
