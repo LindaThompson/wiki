@@ -11,21 +11,21 @@ Installation Guide
 - Highly recommend you install on staging/test site before installing on your product/live site.
 
 
-Downloading
--------------------
+**Downloading**
+
 After purchasing extensions, you will receive an email that includes the link to download extensions or you can go to My Downloadable Products to them.
 
 
-Preparation
------------
+**Preparation**
+
 
 - FTP clients (such as Filezilla, WinSCP, cuteFtp) to upload or copy all folders in the zip package to your Magento site root folder.
 - Unzip the extension package.
 - Disable Compilation: ``System > Tools > Compilation > Disabled``
 
 
-Upload the extension
-----------------
+**Upload the extension**
+
 - Upload all files, folders in *step1* and *step2* into Magento Root directory.  
 - Clean cache and Compilation
 
@@ -36,12 +36,12 @@ Clear cache in Magento Admin Go to System/Cache Management. Hit on Flush Magento
 	Logout and Login again to avoid **Access denied 404 error** when you go to this product configuration.
 
 
-Configuration
--------------
+**Configuration**
+
 
 Go to System > Configuration > MageCheckout Extensions.
 
-Testing
--------
+**Testing**
+
 
 Go to your store backend, front-end, make sure everything is ok. If there is any issue, please submit a ticket at http://support.magecheckout.com
