@@ -224,6 +224,67 @@ Display related products to items in shopping cart at the end of checkout page
 
 
 
+Design
+^^^^^
+
+.. image:: https://lh3.googleusercontent.com/T8BOQvHGE_j_Q2i46dMDvDobRCFFBDICOQOnLAgWLt107WM076Q9xHpGgp0QBQga_ApnIN2xzfBlxeGO0jDyQbWuGW6pzWOSyphQHx2Y819x1-fLkOMJiFOj6ApDWkjzjambBfw
+
+
+Checkout Page Layout
+```````````
+Select page layout: 1, 2 or 3 columns
+
+Style management
+```````````````
+You can select from 9 pre-defined color style or use custom color
+.. image:: https://lh4.googleusercontent.com/rz_pXzP3mfLgXJZO6Vc6n0hb0w3WOtX049uSd6eK75AI3CjRLuAN4YzGcdMuSSEugLSYvzVgq3i3OOwyepDRm8PDALrQtjV1Y8XnY8ZxDIla9QDkYGkDTiC2aN8VO49gQar95fc
+
+Custom CSS
+````````````````
+You can add your custom css design on `One Step Checkout`_
+
+
+Terms and Conditions (TOS)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+By default, Magento support TOS but the design is not good.
+
+.. image:: https://lh4.googleusercontent.com/G7kOTHIVm3r72oZYSpyE_tJ96FpiYWAhWMKYk5Yas66-5WqUwZidTu5X7Qp7gBXoboxaAjJJyIucvf_U2UnLmyhEeWMbvhMPvctxkgPGlJboNoBQjQ-hlGfipqKJMW7KzA2s1DU
+
+
+Show Terms and Conditions
+```````````````````
+If Yes, the TOS will show as checkbox on checkout page
+
+Terms and conditions title
+````````````````
+See the image above
+
+Terms and conditions contents
+```````````````````
+.. image:: https://lh5.googleusercontent.com/mJELOZ28fNQFEiGlg4gbiR9-tn-S0t9OGR0PtQ7-5xfED8FO6gBYtVqUUKE-4eoo0sUDOA-6_Ct-5ATXJnGHi1vSSbpLFF7NRCMK6f5aGZaNQLF7sUeivJTVniRD29sm3Rp6B34
+
+
+
+Survey
+^^^^^^
+
+.. image:: https://lh3.googleusercontent.com/drDT2ONN6HzKe1ZLZoEUg3M7EGHqUQykfEFOFpaoknQ92QifBK9H2j1ctPGr9SgN_eb_BZszZ3ReGMiawm6Vpvje88gEp7NFTsZ_-k8Lmbmt_fFizeY78B0sc3lEW4apR30zgic
+
+Survey
+`````````
+Enable the survey feature
+
+Survey question
+``````````````
+Ask your customer a question
+
+Answer Options
+``````````````
+Add the answer option list
+
+
+
 
 
 .. _One Step Checkout: https://magecheckout.com/
