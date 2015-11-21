@@ -32,7 +32,7 @@ Upload the extension
 Clear cache in Magento Admin Go to System/Cache Management. Hit on Flush Magento Cache. 
 
 
-.. tip:: 404 Access Denied
+.. tip::
 	Logout and Login again to avoid **Access denied 404 error** when you go to this product configuration.
 
 
