@@ -20,7 +20,6 @@ Prepare Installation
 		It's very important to disable Compilation before installation an extension. We strongly recommend you to do not omit this step.
 		Go to ``System > Tools > Compilation > Disabled``
 
-
 #. Download FTP clients
 Recommend clients: **FileZilla**, **WinSCP**, **cuteFtp**
 
@@ -65,9 +64,7 @@ Go to ``System > Tools > Compilation > Enable``
 
 
 
+
 .. include:: ../support.rst
 
 
-Go to your store back-end, front-end, make sure everything is ok. If there is any issues, please `submit a ticket here`_ 
-
-.. _submit a ticket here: http://support.magecheckout.com
