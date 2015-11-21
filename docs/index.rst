@@ -18,9 +18,9 @@ Welcome to Magecheckout Wiki
    :caption: User Documentation
 
    one-step-checkout/index
-   affiliate/index
-   reward-points/index
-   gift-card/index
+   .. affiliate/index
+   .. reward-points/index
+   .. gift-card/index
    delivery-time/index
    display-rules/index
    thank-you-page/index

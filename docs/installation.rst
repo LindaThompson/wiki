@@ -26,10 +26,10 @@ After purchasing extensions, you will receive an email that includes the link to
 
 **Upload the extension**
 
-- Upload all files, folders in *step1* and *step2* into Magento Root directory.  
+- Upload all files, folders in ``step1`` and ``step2`` into Magento Root directory.  
 - Clean cache and Compilation
 
-Clear cache in Magento Admin Go to System/Cache Management. Hit on Flush Magento Cache. 
+Clear cache in Magento Admin Go to ``System > Cache Management``. Hit on ``Flush Magento Cache``. 
 
 
 .. tip::
@@ -38,10 +38,11 @@ Clear cache in Magento Admin Go to System/Cache Management. Hit on Flush Magento
 
 **Configuration**
 
-
-Go to System > Configuration > MageCheckout Extensions.
+Go to ``System > Configuration > MageCheckout Extensions``.
 
 **Testing**
 
 
-Go to your store backend, front-end, make sure everything is ok. If there is any issue, please submit a ticket at http://support.magecheckout.com
+Go to your store back-end, front-end, make sure everything is ok. If there is any issues, please `submit a ticket here`_ 
+
+.. _submit a ticket here: http://support.magecheckout.com
