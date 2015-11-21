@@ -1,4 +1,5 @@
-Syntax:
+Syntax
+--------
 
 Note, Tip, Warning: http://sphinx.readthedocs.org/en/latest/rest.html#directives
 
