@@ -103,7 +103,7 @@ General configuration
 
 Enable Secure Checkout
 ``````````
-Select ``Yes``:  Active Magecheckout `One Step Checkout`_ as default checkout in your store.
+Select **Yes**:  Active Magecheckout `One Step Checkout`_ as default checkout in your store.
 
 
 
@@ -153,12 +153,79 @@ If Yes, Address fields in Billing address and Shipping address will be suggested
 .. image:: https://lh3.googleusercontent.com/KUiymx7LbZLOQ1csNxKA2hq3e6eSV-vtwHaKL8cebUQw5Rylowa5u7qYblVkfCO9qkt_H-Y8zBp0FEVKi8WbwSYkT9NHOu1L05BpDcPWoc6elOZjM5wqG-N_GM4pkbFvUqrypiA
 
 
+Integrate Social Login
+```````````````````````
+Allow customers login with 6 popular social networks API: Facebook, Google+, Twitter, Yahoo, Wordpress and Microsoft Live.
+
+.. note:: 
+	You download `Social Login for free here`_ . This is 3rd-party extension, not our own.
+
+.. image:: https://lh6.googleusercontent.com/-4JmG6BDtfetfxM8f942YGQF9B6Lmf2Qpy8Oe4qYv0OIvCEKdzUqlRU5_Fx-1-yPKuzRHvuAFF3nciyQ7QUHUyHqy2uDBiMOSaocC7Vps6yc9miLk_ZP7lQa7uNUJT-8gsTKRU4
+
+
 Display Configuration
 ---------------------
 
+Discount Code Section
+```````````````
+Show Discount Code box in Checkout page.
+.. image:: https://lh6.googleusercontent.com/j3RwY6EP3ltsCh-Iw__3Ql3vJHjITc96UlbtavTtlPzBdZMqFfVC1DK2-cDItWQRj3qSqRi0cC9ikVwGQS2YCv1vMY0893ewEVAYYY62NEu_hTIZUvQPLP9po_8FtUw6ikF0gG0
+
+
+Order Comment
+````````````````
+
+Allow customer comment in order.
+
+.. image:: https://lh3.googleusercontent.com/QyZMvKX505HBQ20XsEDxRj3F0UIacE2Nrmtxv91J0-PImRFOpUKf0Ipfn0D5IuDhzOjLxgiwldt-Bn8uH6Yh2K1oYGWbNNHDEsABHExMIB8KEEgvyyCJgoJIkpTUjDMi89crjFg
+
+Gift Message
+````````````
+
+Allow **Gift message** in checkout page.
+
+.. image:: https://lh6.googleusercontent.com/IFNEqA6rI_D6Jn_3Lv9oY1IGryeDLpITEzVFRLfeA8ARnToH6Ky13RhEuUJLToUy4gmCoJKRlmL0c2rdIyFQx3B6pGB57jrHPsAFFLF0GXdY44NTNJPGWtE1W7vPIp6Bhm28iZQ
+
+Enable Gift Wrap
+```````````````
+If Yes, the gift wrap feature will be on.
+
+Gift wrap type
+```````````````
+Select gift wrap per order or per item.
+
+Gift wrap fee
+``````````````
+Set gift wrap fee in current currency.
+
+Delivery time
+`````````````
+Enable default Delivery time feature
+.. image: https://lh3.googleusercontent.com/7rKlHLWxWWkwht4rHmBxfk-Eie2mQK_fTj3sGW8SCCeSKduBlV0iF1zUgt8g1nnwSLv7GLgeRSbzTuJKqk_gGTawrOW-QNN6BRWtE0bDm0L6GpzzEsP_mCkobXcPbPFMfzYna0E
+
+You also can get an advanced `Delivery time here`_
+
+
+
+
+Show Newsletter Checkbox
+```````````````````````
+Display newsletter checkbox in checkout page
+.. image:: https://lh6.googleusercontent.com/dT_RoNJxIJEsKYl3dGAgEgLEDmDR8IqanLPcBcdajpjK-_owO3r9tpraZwaG0J1N0N9v3H8QbFizez03qRksglBF1SNF4X6z16was2NbR6C7N0yKhdhRR4qNDBEuDc6O-pUmUmU
+
+
+Subscribe Newsletter By Default
+``````````````````````
+Automatically check “Sign up to our newsletter” checkbox
+
+Related Products
+```````````````
+Display related products to items in shopping cart at the end of checkout page
 
 
 
 
 
 .. _One Step Checkout: https://magecheckout.com/
+.. _Social Login for free here: https://magegiant.com/magento-social-login-extension/
+.. _Delivery time here: https://magecheckout.com/delivery-time.html
