@@ -169,6 +169,7 @@ Display Configuration
 Discount Code Section
 ```````````````
 Show Discount Code box in Checkout page.
+
 .. image:: https://lh6.googleusercontent.com/j3RwY6EP3ltsCh-Iw__3Ql3vJHjITc96UlbtavTtlPzBdZMqFfVC1DK2-cDItWQRj3qSqRi0cC9ikVwGQS2YCv1vMY0893ewEVAYYY62NEu_hTIZUvQPLP9po_8FtUw6ikF0gG0
 
 
