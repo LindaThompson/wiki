@@ -9,12 +9,13 @@ One Step Checkout
     :glob:
 
     installation
-    configuration
+    user-guide
     faq
     translation
     compatibility/index
     changelog
     upgrade
     uninstallation
+    *
 
 
