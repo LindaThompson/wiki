@@ -1,8 +1,8 @@
+Syntax:
 
-Note, Tip, Warning:
-http://sphinx.readthedocs.org/en/latest/rest.html#directives
+Note, Tip, Warning: http://sphinx.readthedocs.org/en/latest/rest.html#directives
 
-Img: http://sphinx.readthedocs.org/en/latest/rest.html#images
+Images : http://sphinx.readthedocs.org/en/latest/rest.html#images
 
 Source code: http://sphinx.readthedocs.org/en/latest/rest.html#source-code
 
