@@ -29,8 +29,6 @@ Recommend clients: **FileZilla**, **WinSCP**, **cuteFtp**
 Upload the extension
 --------------------
 
-Upload via FTP/SFTP
-^^^^^^^^^^^^^^^^^^^
 
 #. Log into your hosting space via a FTP client
 #. Unzip extension package and upload **all files, folders in** ``step1``` and ``step2```` into **Magento root directory**.
@@ -42,6 +40,7 @@ Upload via FTP/SFTP
 
 #. Clean Cache
 	Flush Magento Cache: ``System > Cache Management``. Hit on ``Flush Magento Cache``. 
+
 
 
 
