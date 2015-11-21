@@ -42,7 +42,15 @@ Billing Address
 Shipping Address
 ^^^^^^^^^^^^^^^^
 .. image:: https://lh3.googleusercontent.com/_KtYCQmFIZOiLNX59Fvqkfw4a1In0VPV7f2-hNYlFoymXQD4SEO5LkAiAc_dONhyKzFi28hLwfbwHAfG1wxVIY2kUxGJC669_MbIYRuF6DVaE-KJdbJQ0yue7fEQAIc3A6Q16aY
-
+	align: center
 
 When customers change information on Billing address or Shipping address, others step that related to Billing/Shipping address will be updated by ajax automatically.
 
+.. image:: https://lh3.googleusercontent.com/ERh07JhvLUNmlfhxvwXHADomhc1g9z9sei0LTXUoGmttW6E5pAEm_xygkgHlmgTPvs6UrWQEtvCKdieDoNpkJbNrVT2qj-rRAUbS4BGRvh84IBQfHAWHwkA5PZ5oVWMw1bgjl-U
+
+
+
+Payment method
+^^^^^^^^^^^^^^
+
+.. image:: https://lh6.googleusercontent.com/bQUtkl9YPDHezYaVKhjMpJoTzciThAU_Wm1jsZfQJogsK_taLDRRIUFZjyrOMHBFLujvvTw6tS8DFdc9LyP0ZCNob6gaO9xzGfcK9-xUFXlzICiAHhl09AGW-12cnWxlwHYTSzk
