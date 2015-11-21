@@ -9,9 +9,40 @@ Checkout page overview
 ^^^^^^^^^^^^^^^^^^^^^^
 
 After hitting on Process to checkout, customers will be redirect into the Secured Checkout page. Here they can see the difference between the Step-by-step default Checkout page of Magento and Secured Checkout page.
-The Checkout page include 6 steps: **Checkout Method, Billing Address, Shipping Address, Shipping Method, Payment Method and Order Review **
+
+The Checkout page include 6 steps: **Checkout Method, Billing Address, Shipping Address, Shipping Method, Payment Method and Order Review**
+
+
 .. image:: https://lh3.googleusercontent.com/rQ4iaGaBbFWl9vJ5eEKj1e5tg7cQ0Pe0WIWLLf2JEq1b9hz34p18OCLs7iF66Hs08mBAfXW6IpPY1D8kSRVPSLStPz8-F9WN1VytNOISfwXZahgsLsKmacInqqpILSc_H-ylzq0
+
 
 Login / Sign up
 ^^^^^^^^^^^^^^^
+
 .. image:: https://lh5.googleusercontent.com/xT3rTUGx0ud2tUFhFEfec0IU9MMOmp0eGRTg-w0dIEb1_S1S9meSEe8LzXY64g0jDcGclBdEehRaOU2zwODiLTjKLHtUkYCejgJw-NrT4WpWFdFCA5bNBrUnm0-2n7Iih3MHvI0
+
+Forgot password
+^^^^^^^^^^^^^^
+
+.. image:: https://lh4.googleusercontent.com/R2x8TtxOkcrBnh11zgCuojUgQIAFcd0aHM96ScdoqXOF4Tmq227q0FvKbZtIlMY3SpA-HZT26YCh0Gpit9y1zaM3L6wGuqoP7j3_y4ySI4LZ7PY8m8OYyOv3qZGXB0Hm2eKFV7c
+
+
+Create account easily
+^^^^^^^^^^^^^^^^^^^^^
+
+If Customers don’t have an account in your site, they can create one right away by providing password in the **Billing Address section**. This password together with the email address they fill in will be their login information next time.
+
+.. image:: https://lh3.googleusercontent.com/IhPNAZCkmgQKDsR_sV_hlHS3COTdoVTMtjAr3XenJDeZ3-bA3X-NVfYHkYLcw7b5aKHYgxog33-76GExCKCoMajbY6QIjUY5y7opXi2FliTWcdkHY0Hpd_Zr5w4pZW6sHgawrlc
+
+Billing Address
+^^^^^^^^^^^^^
+
+.. image:: https://lh5.googleusercontent.com/ThXKmULlL5Pxk66mw44wNTMQYxDH-sxB8QqZol4_OCCCU7145M4m8B2gKgt1vrF3Jm-_IKjNyEIQszAz75hVLpigZ4p_kCRA2S6JLgWprmRb6jo6tsnbZRb66RxN_Sa201GsliU
+
+Shipping Address
+^^^^^^^^^^^^^^^^
+.. image:: https://lh3.googleusercontent.com/_KtYCQmFIZOiLNX59Fvqkfw4a1In0VPV7f2-hNYlFoymXQD4SEO5LkAiAc_dONhyKzFi28hLwfbwHAfG1wxVIY2kUxGJC669_MbIYRuF6DVaE-KJdbJQ0yue7fEQAIc3A6Q16aY
+
+
+When customers change information on Billing address or Shipping address, others step that related to Billing/Shipping address will be updated by ajax automatically.
+
