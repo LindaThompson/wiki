@@ -108,13 +108,53 @@ Select ``Yes``:  Active Magecheckout `One Step Checkout`_ as default checkout in
 
 
 Checkout Title
-You can check heading title in Secured Checkout page
+``````````````
+
+You can check heading title in One Step Checkout page
+
+.. image:: https://lh3.googleusercontent.com/4_rQnDXWPcmgmx269DszhnDVYxBFuk7pagEZh_u0u-_SyO5KgmWncr7tKaXF1_4xyDIiULO1FJtLBTuBwzcCrUtgBhAsZfEPsVC5T43D09PHUx7Z0NEv7EkmBHDibWf_yF3s6q4
+
+
+Checkout Description
+`````````````````
+Checkout description on the checkout page. See image above.
+
+
+Default Payment method
+`````````````````````
+Set default payment method in checkout process.
+
+.. image:: https://lh6.googleusercontent.com/ANTf36NXo3njJUawRLbZ_qQ8xDBW7_SrPNwfriKUzPgXQSM-hp4Q309AL9KuL0rgXltcKVfGy46bp3eJiwq3HnLtqEfeIcAfQltTPN5o38TXkoj-BVru9h7TXUqnRuOVct8O9jA
+
+
+Default Shipping method
+```````````````````````
+Set default shipping method in checkout process.
+
+
+Default Country
+```````````````
+Select default country for `Billing address` and `Shipping address`
+
+.. image:: https://lh6.googleusercontent.com/TmzaIDRDNNuaFFL0K0LRpF6P8ncxRc_kq_AApX2NnaFPl-iS0gqwOt90MfhB4qCFWyy3Imem4HV6cO9EGo3135S6P1yJEiw3ahxDeOnk0_CTigz9AhiD0_Ki4yLK09TmgFUsKqY
 
 
 
+Allow shipping To Different Address
+``````````````````
+Allow customers can shipping to different address from billing address.
 
 
+Use Google Maps Suggestion Technology
+```````````````````````````````````
 
+If Yes, Address fields in Billing address and Shipping address will be suggested by **oogle Maps Suggestion Technology** like this below image.
+
+.. image:: https://lh3.googleusercontent.com/KUiymx7LbZLOQ1csNxKA2hq3e6eSV-vtwHaKL8cebUQw5Rylowa5u7qYblVkfCO9qkt_H-Y8zBp0FEVKi8WbwSYkT9NHOu1L05BpDcPWoc6elOZjM5wqG-N_GM4pkbFvUqrypiA
+
+
+Display Configuration
+---------------------
 
 
 
