@@ -21,17 +21,16 @@ Now you can safely remove the extension files, although it is not necessary.
 Uninstall an extension completely
 --------------------------------------
 
-*Delete the following files, folders:*
+Delete the following files, folders::
 
-
-		app/etc/modules/Magecheckout_EXTENSION_NAME.xml
-		app/code/local/Magecheckout/EXTENSION_NAME
-		app/design/adminhtml/default/default/layout/magecheckout/EXTENSION_NAME.xml
-		app/design/adminhtml/default/default/template/magecheckout/EXTENSION_NAME
-		app/design/frontend/base/default/layout/magecheckout
-		app/design/frontend/base/default/template/magecheckout/EXTENSION_NAME
-		js/magecheckout/EXTENSION_NAME
-		skin/frontend/base/default/css/magecheckout/EXTENSION_NAME
-		skin/frontend/base/default/js/magecheckout/EXTENSION_NAME
+	app/etc/modules/Magecheckout_EXTENSION_NAME.xml
+	app/code/local/Magecheckout/EXTENSION_NAME
+	app/design/adminhtml/default/default/layout/magecheckout/EXTENSION_NAME.xml
+	app/design/adminhtml/default/default/template/magecheckout/EXTENSION_NAME
+	app/design/frontend/base/default/layout/magecheckout
+	app/design/frontend/base/default/template/magecheckout/EXTENSION_NAME
+	js/magecheckout/EXTENSION_NAME
+	skin/frontend/base/default/css/magecheckout/EXTENSION_NAME
+	skin/frontend/base/default/js/magecheckout/EXTENSION_NAME
 
 

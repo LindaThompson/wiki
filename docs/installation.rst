@@ -11,7 +11,7 @@ There are also some requirements to your server where Magento Shop is hosted (al
 - Highly recommend you install on staging/test site before installing on your product/live site.
 
 
-Downloading extensions
+Downloading
 -------------------
 After purchasing extensions, you will receive an email that includes the link to download extensions or you can go to My Downloadable Products to them.
 
@@ -24,7 +24,7 @@ Preparation
 - Disable Compilation: ``System > Tools > Compilation > Disabled``
 
 
-Upload the extension:
+Upload the extension
 ----------------
 - Upload all files, folders in *step1* and *step2* into Magento Root directory.  
 - Clean cache and Compilation
