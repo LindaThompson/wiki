@@ -2,45 +2,71 @@
 Installation Guide
 ====================================
 
+
+Prepare Installation
+-------------------
+
+#. **We recommend you to duplicate your live store on a staging/test site and try installation on it in advance**
+#. **Backup magento files and the store database**
+	.. important::
+		It's very important to backup all of themes and extensions in Magento before installation, especially when you are working on a live server. We strongly recommend you to do not omit this step.
+
+#. **Enable all caches in your magento**
+	.. important::
+		It's very important to enable the caches, Because, sometimes, some of the extensions of the theme were installed incorrectly. So you should enable the caches during upload the theme files, then you should disable or clear the caches, when complete to upload the theme files.
+
+#. **Disable Compilation**
+	.. important::
+		It's very important to disable Compilation before installation an extension. We strongly recommend you to do not omit this step.
+		Go to ``System > Tools > Compilation > Disabled``
+
+
+#. Download FTP clients
+Recommend clients: **FileZilla**, **WinSCP**, **cuteFtp**
+
+
+
+Upload the extension
+--------------------
+
+Upload via FTP/SFTP
+^^^^^^^^^^^^^^^^^^^
+
+#. Log into your hosting space via a FTP client
+#. Unzip extension package and upload **all files, folders in** ``step1``` and ``step2```` into **Magento root directory**.
+
 .. note::
-	There are also some requirements to your server where Magento Shop is hosted (all these requirements are common for Magento but still we need to bring them up again):
-
-- RAM memory over 512 Mbytes
-- Free space on the server not less than the size of the backup
-- Zlib support in PHP. You will need to configure PHP with zlib, but don't worry - most Magento servers have this feature on.
-- Highly recommend you install on staging/test site before installing on your product/live site.
+	Usually in ``step1`` includes : ``app``, ``skin`` ``js``  and ``step1`` includes ``app`` only. So upload them into Magento root directory.
+	Do NOT upload ``step1``, ``step2`` => Magento root directory.
 
 
-**Downloading**
+#. Clean Cache
+	Flush Magento Cache: ``System > Cache Management``. Hit on ``Flush Magento Cache``. 
 
-After purchasing extensions, you will receive an email that includes the link to download extensions or you can go to My Downloadable Products to them.
-
-
-**Preparation**
-
-
-- FTP clients (such as Filezilla, WinSCP, cuteFtp) to upload or copy all folders in the zip package to your Magento site root folder.
-- Unzip the extension package.
-- Disable Compilation: ``System > Tools > Compilation > Disabled``
-
-
-**Upload the extension**
-
-- Upload all files, folders in ``step1`` and ``step2`` into Magento Root directory.  
-- Clean cache and Compilation
-
-Clear cache in Magento Admin Go to ``System > Cache Management``. Hit on ``Flush Magento Cache``. 
 
 
 .. tip::
 	Logout and Login again to avoid **Access denied 404 error** when you go to this product configuration.
 
 
-**Configuration**
+Configuration
+-------------
+Now time to setup it in backend.
 
 Go to ``System > Configuration > MageCheckout Extensions``.
 
-**Testing**
+
+Enable Complation (if any)
+^^^^^^^^^^^^^^^^^
+.. warning::
+	Skip this step if you have no idea about this
+
+You can ignore this step if you did not enable it before.
+Go to ``System > Tools > Compilation > Enable``
+
+
+
+.. include:: ../support.rst
 
 
 Go to your store back-end, front-end, make sure everything is ok. If there is any issues, please `submit a ticket here`_ 

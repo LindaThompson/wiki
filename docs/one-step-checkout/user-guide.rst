@@ -148,14 +148,14 @@ Allow customers can shipping to different address from billing address.
 Use Google Maps Suggestion Technology
 ```````````````````````````````````
 
-If Yes, Address fields in Billing address and Shipping address will be suggested by **oogle Maps Suggestion Technology** like this below image.
+If Yes, Address fields in Billing address and Shipping address will be suggested by **oogle Maps Suggestion Technology** like this below image
 
 .. image:: https://lh3.googleusercontent.com/KUiymx7LbZLOQ1csNxKA2hq3e6eSV-vtwHaKL8cebUQw5Rylowa5u7qYblVkfCO9qkt_H-Y8zBp0FEVKi8WbwSYkT9NHOu1L05BpDcPWoc6elOZjM5wqG-N_GM4pkbFvUqrypiA
 
 
 Integrate Social Login
 ```````````````````````
-Allow customers login with 6 popular social networks API: Facebook, Google+, Twitter, Yahoo, Wordpress and Microsoft Live.
+Allow customers login with 6 popular social networks API: Facebook, Google+, Twitter, Yahoo, Wordpress and Microsoft Live
 
 .. note:: 
 	You download `Social Login for free here`_ . This is 3rd-party extension, not our own.
@@ -168,7 +168,7 @@ Display Configuration
 
 Discount Code Section
 ```````````````
-Show Discount Code box in Checkout page.
+Show Discount Code box in Checkout page
 
 .. image:: https://lh6.googleusercontent.com/j3RwY6EP3ltsCh-Iw__3Ql3vJHjITc96UlbtavTtlPzBdZMqFfVC1DK2-cDItWQRj3qSqRi0cC9ikVwGQS2YCv1vMY0893ewEVAYYY62NEu_hTIZUvQPLP9po_8FtUw6ikF0gG0
 
@@ -176,14 +176,14 @@ Show Discount Code box in Checkout page.
 Order Comment
 ````````````````
 
-Allow customer comment in order.
+Allow customer comment in order
 
 .. image:: https://lh3.googleusercontent.com/QyZMvKX505HBQ20XsEDxRj3F0UIacE2Nrmtxv91J0-PImRFOpUKf0Ipfn0D5IuDhzOjLxgiwldt-Bn8uH6Yh2K1oYGWbNNHDEsABHExMIB8KEEgvyyCJgoJIkpTUjDMi89crjFg
 
 Gift Message
 ````````````
 
-Allow **Gift message** in checkout page.
+Allow **Gift message** in checkout page
 
 .. image:: https://lh6.googleusercontent.com/IFNEqA6rI_D6Jn_3Lv9oY1IGryeDLpITEzVFRLfeA8ARnToH6Ky13RhEuUJLToUy4gmCoJKRlmL0c2rdIyFQx3B6pGB57jrHPsAFFLF0GXdY44NTNJPGWtE1W7vPIp6Bhm28iZQ
 
@@ -238,6 +238,7 @@ Select page layout: 1, 2 or 3 columns
 Style management
 ```````````````
 You can select from 9 pre-defined color style or use custom color
+
 .. image:: https://lh4.googleusercontent.com/rz_pXzP3mfLgXJZO6Vc6n0hb0w3WOtX049uSd6eK75AI3CjRLuAN4YzGcdMuSSEugLSYvzVgq3i3OOwyepDRm8PDALrQtjV1Y8XnY8ZxDIla9QDkYGkDTiC2aN8VO49gQar95fc
 
 Custom CSS
@@ -272,16 +273,16 @@ Survey
 
 .. image:: https://lh3.googleusercontent.com/drDT2ONN6HzKe1ZLZoEUg3M7EGHqUQykfEFOFpaoknQ92QifBK9H2j1ctPGr9SgN_eb_BZszZ3ReGMiawm6Vpvje88gEp7NFTsZ_-k8Lmbmt_fFizeY78B0sc3lEW4apR30zgic
 
-Survey
-`````````
+**Survey**
+
 Enable the survey feature
 
-Survey question
-``````````````
+**Survey question**
+
 Ask your customer a question
 
-Answer Options
-``````````````
+**Answer Options**
+
 Add the answer option list
 
 
